@@ -104,12 +104,12 @@ li{
 	font-size: 12pt;
 }
 
-table{
+:not(.signature)>table{
 	width: 100%;
 	border-collapse: collapse;
 }
 
-td, th{
+:not(.signature) td, th{
 	border-spacing: 0;
 	border: 0.2mm solid black;
 }
