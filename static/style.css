@@ -104,12 +104,12 @@ li{
 	font-size: 12pt;
 }
 
-:not(.signature)>table{
+main>div:nth-child(n+2) table{
 	width: 100%;
 	border-collapse: collapse;
 }
 
-:not(.signature) td, th{
+main>div:nth-child(n+2) td, th{
 	border-spacing: 0;
 	border: 0.2mm solid black;
 }
