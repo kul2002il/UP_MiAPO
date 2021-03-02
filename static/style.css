@@ -104,6 +104,16 @@ li{
 	font-size: 12pt;
 }
 
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+td, th{
+	border-spacing: 0;
+	border: 0.2mm solid black;
+}
+
 
 
 
