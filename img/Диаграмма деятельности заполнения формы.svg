@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="26cm" height="40cm" viewBox="172 179 509 792" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Фон">
+    <ellipse style="fill: #000000; fill-opacity: 1; stroke: none" cx="319.95" cy="190" rx="10" ry="10"/>
+    <g>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="319.95" cy="955" rx="15" ry="15"/>
+      <ellipse style="fill: #000000; fill-opacity: 1; stroke: none" cx="319.95" cy="955" rx="10" ry="10"/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="237.125" y="240" width="165.65" height="36" rx="10" ry="10"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="319.95" y="261.9">
+        <tspan x="319.95" y="261.9">Переход на страницу</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="243.95" y="320" width="152" height="36" rx="10" ry="10"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="319.95" y="341.9">
+        <tspan x="319.95" y="341.9">Заполнение формы</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="220" y="480" width="199.9" height="36" rx="10" ry="10"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="319.95" y="501.9">
+        <tspan x="319.95" y="501.9">Ожидание ответа сервера</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="277.425" y="400" width="85.05" height="36" rx="10" ry="10"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="319.95" y="421.9">
+        <tspan x="319.95" y="421.9">Отправка</tspan>
+      </text>
+    </g>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="299.95,560 319.95,540 339.95,560 319.95,580 "/>
+    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="394.7" y="603.95">
+      <tspan x="394.7" y="603.95">Сообщение: не верно заполнены поля</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="380" y="640" width="166.9" height="52" rx="10" ry="10"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="463.45" y="661.9">
+        <tspan x="463.45" y="661.9">Отмеченые поля</tspan>
+        <tspan x="463.45" y="677.9">заполнить правильно</tspan>
+      </text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="319.95,201.005 319.95,219.998 319.95,219.998 319.95,234.519 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="314.95,226.755 319.95,236.755 324.95,226.755 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="319.95,277.009 319.95,298 319.95,298 319.95,314.519 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="314.95,306.755 319.95,316.755 324.95,306.755 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="319.95,357.009 319.95,378 319.95,378 319.95,394.519 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="314.95,386.755 319.95,396.755 324.95,386.755 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="319.95,437.009 319.95,458 319.95,458 319.95,474.519 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="314.95,466.755 319.95,476.755 324.95,466.755 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="319.95,517.009 319.95,528.505 319.95,528.505 319.95,535.528 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="314.95,527.764 319.95,537.764 324.95,527.764 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="319.95,580 319.95,610 463.45,610 463.45,635.528 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="458.45,627.764 463.45,637.764 468.45,627.764 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="463.45,692 463.45,720 680,720 680,378 324.422,378 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="332.186,373 322.186,378 332.186,383 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="380" y="800" width="154.5" height="36" rx="10" ry="10"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="457.25" y="821.9">
+        <tspan x="457.25" y="821.9">Попробовать позже</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="271.25" y="860" width="97.4" height="36" rx="10" ry="10"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="319.95" y="881.9">
+        <tspan x="319.95" y="881.9">Радоваться</tspan>
+      </text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="319.95,580 319.95,780 319.95,780 319.95,855.528 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="314.95,847.764 319.95,857.764 324.95,847.764 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="319.95,580 319.95,780 457.25,780 457.25,794.519 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="452.25,786.755 457.25,796.755 462.25,786.755 "/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="391.6" y="757.95">
+      <tspan x="391.6" y="757.95">Сообщение: ошибка сервера,</tspan>
+      <tspan x="391.6" y="773.95">попробуйте позднее</tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="319.95,897.009 319.95,918.001 319.95,918.001 319.95,934.52 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="314.95,926.756 319.95,936.756 324.95,926.756 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="457.25,836.988 457.25,920 319.95,920 319.95,935.528 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="314.95,927.764 319.95,937.764 324.95,927.764 "/>
+    </g>
+    <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="316.95" y="813.95">
+      <tspan x="316.95" y="813.95">Сообщение: успешно</tspan>
+    </text>
+  </g>
+</svg>
