@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="21cm" height="21cm" viewBox="-201 19 417 412" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="127.325" cy="30" rx="10" ry="10"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="127.325" cy="415" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="127.325" cy="415" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="127.325" cy="415" rx="10" ry="10"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="54.625" y="82.5" width="145.4" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="54.625" y="82.5" width="145.4" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="127.325" y="105.3">
+      <tspan x="127.325" y="105.3">Переход на страницу</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="69.2" y="160" width="116.25" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="69.2" y="160" width="116.25" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="127.325" y="182.8">
+      <tspan x="127.325" y="182.8">Выбор элемента</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="67.075" y="320" width="120.5" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="67.075" y="320" width="120.5" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="127.325" y="342.8">
+      <tspan x="127.325" y="342.8">Работа с формой</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="40" y="240" width="174.65" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="240" width="174.65" height="52" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="127.325" y="262.8">
+      <tspan x="127.325" y="262.8">Переход на страницу</tspan>
+      <tspan x="127.325" y="278.8">редактирования элемента</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="127.325,41.0009 127.325,61.248 127.325,61.248 127.325,77.3218 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="122.325,69.5579 127.325,79.5579 132.325,69.5579 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="127.325,119.504 127.325,139.247 127.325,139.247 127.325,154.52 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="122.325,146.756 127.325,156.756 132.325,146.756 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="127.325,196.994 127.325,218 127.325,218 127.325,234.522 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="122.325,226.758 127.325,236.758 132.325,226.758 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="127.325,293.003 127.325,297.985 127.325,297.985 127.325,314.527 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="122.325,306.763 127.325,316.763 132.325,306.763 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="127.325,356.994 127.325,378.001 127.325,378.001 127.325,394.539 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="122.325,386.775 127.325,396.775 132.325,386.775 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="-200,20 -1.5,20 10.5,32 10.5,150 -200,150 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-200,20 -1.5,20 10.5,32 10.5,150 -200,150 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="-1.5,20 -1.5,32 10.5,32 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-193" y="43.65">
+      <tspan x="-193" y="43.65">Субъект моделирования:</tspan>
+      <tspan x="-193" y="59.65">  Изменение элемента</tspan>
+      <tspan x="-193" y="75.65">  информации из множества</tspan>
+      <tspan x="-193" y="91.65">  элементов</tspan>
+      <tspan x="-193" y="107.65">Точка зрения:</tspan>
+      <tspan x="-193" y="123.65">  авторизованный</tspan>
+      <tspan x="-193" y="139.65">  пользователь</tspan>
+    </text>
+  </g>
+</svg>

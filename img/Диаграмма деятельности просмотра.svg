@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="20cm" height="14cm" viewBox="-201 19 394 263" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="114.327" cy="32.5227" rx="10" ry="10"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="114.327" cy="265.321" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="114.327" cy="265.321" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="114.327" cy="265.321" rx="10" ry="10"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="41.6267" y="85.0227" width="145.4" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="41.6267" y="85.0227" width="145.4" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="114.327" y="107.823">
+      <tspan x="114.327" y="107.823">Переход на страницу</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="37.5267" y="162.523" width="153.6" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="37.5267" y="162.523" width="153.6" height="36" rx="10" ry="10"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="114.327" y="185.323">
+      <tspan x="114.327" y="185.323">Усвоение информации</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="114.327,43.5236 114.327,63.7707 114.327,63.7707 114.327,79.8445 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="109.327,72.0806 114.327,82.0806 119.327,72.0806 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="114.327,122.027 114.327,141.769 114.327,141.769 114.327,157.043 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="109.327,149.279 114.327,159.279 119.327,149.279 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="114.327,199.517 114.327,220.523 114.327,220.523 114.327,244.881 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="109.327,237.117 114.327,247.117 119.327,237.117 "/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="-200,20 -24.6,20 -12.6,32 -12.6,118 -200,118 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-200,20 -24.6,20 -12.6,32 -12.6,118 -200,118 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="-24.6,20 -24.6,32 -12.6,32 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-193" y="43.65">
+      <tspan x="-193" y="43.65">Субъект моделирования:</tspan>
+      <tspan x="-193" y="59.65">  Просмотр информации</tspan>
+      <tspan x="-193" y="75.65">Точка зрения:</tspan>
+      <tspan x="-193" y="91.65">  авторизованный</tspan>
+      <tspan x="-193" y="107.65">  пользователь</tspan>
+    </text>
+  </g>
+</svg>

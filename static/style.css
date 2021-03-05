@@ -98,6 +98,7 @@ li{
 }
 
 .img{
+	page-break-inside: avoid;
 	text-align: center;
 }
 
@@ -117,6 +118,10 @@ main>div:nth-child(n+2) table{
 main>div:nth-child(n+2) td, th{
 	border-spacing: 0;
 	border: 0.2mm solid black;
+}
+
+.mono{
+	page-break-inside: avoid;
 }
 
 
