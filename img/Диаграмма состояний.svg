@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="22cm" height="22cm" viewBox="-41 19 440 432" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="298.65" cy="50" rx="10" ry="10"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="298.65" cy="435" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="298.65" cy="435" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="298.65" cy="435" rx="10" ry="10"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="-40,20 135.4,20 147.4,32 147.4,134 -40,134 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-40,20 135.4,20 147.4,32 147.4,134 -40,134 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="135.4,20 135.4,32 147.4,32 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-33" y="43.65">
+      <tspan x="-33" y="43.65">Субъект моделирования:</tspan>
+      <tspan x="-33" y="59.65">  учебная дисциплина</tspan>
+      <tspan x="-33" y="75.65">  задание</tspan>
+      <tspan x="-33" y="91.65">  оценка</tspan>
+      <tspan x="-33" y="107.65">Точка зрения:</tspan>
+      <tspan x="-33" y="123.65">  учитель</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="200" y="120" width="197.3" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="200" y="120" width="197.3" height="52" rx="10" ry="10"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="298.65" y="142.8">
+      <tspan x="298.65" y="142.8">Имеется в реальности,</tspan>
+      <tspan x="298.65" y="158.8">но не в электронном журнале</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="298.65,61.0054 298.65,71.0054 298.65,108.993 298.65,114.521 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="293.65,106.757 298.65,116.757 303.65,106.757 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="228.025" y="240" width="141.25" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="228.025" y="240" width="141.25" height="36" rx="10" ry="10"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="298.65" y="262.8">
+      <tspan x="298.65" y="262.8">Сохранён в журнале</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="258.65" y="340" width="80" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="258.65" y="340" width="80" height="36" rx="10" ry="10"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="298.65" y="362.8">
+      <tspan x="298.65" y="362.8">Удалён</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="298.65,172.982 298.65,205.999 298.65,205.999 298.65,234.522 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="293.65,226.759 298.65,236.759 303.65,226.759 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="332" y="204">Создание</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="298.65,276.999 298.65,318 298.65,318 298.65,334.534 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="293.65,326.77 298.65,336.77 303.65,326.77 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="332" y="312">Удаление</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="298.65,377.009 298.65,387.009 298.65,408.992 298.65,414.52 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="293.65,406.756 298.65,416.756 303.65,406.756 "/>
+  </g>
+</svg>

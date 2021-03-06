@@ -16,7 +16,7 @@
   <g>
     <rect style="fill: #ffffff" x="240" y="-40" width="62.1" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="240" y="-40" width="62.1" height="36"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="271.05" y="-17.2">
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="271.05" y="-17.2">
       <tspan x="271.05" y="-17.2">Сервер</tspan>
     </text>
     <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="250" y1="-14.55" x2="292.1" y2="-14.55"/>
@@ -28,23 +28,23 @@
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="40" y1="-90" x2="40" y2="-60"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="40" y1="-60" x2="16" y2="-34"/>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="40" y1="-60" x2="64" y2="-34"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="-9.2">
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="-9.2">
       <tspan x="40" y="-9.2">Авторизованный пользователь</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="460" y="-40" width="36.3" height="36"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="460" y="-40" width="36.3" height="36"/>
-    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="478.15" y="-17.2">
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="478.15" y="-17.2">
       <tspan x="478.15" y="-17.2">БД</tspan>
     </text>
     <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="470" y1="-14.55" x2="486.3" y2="-14.55"/>
   </g>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="271.05" y1="100" x2="271.05" y2="140"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="271.05" y1="180" x2="271.05" y2="340"/>
-    <rect style="fill: #ffffff" x="264.05" y="140" width="14" height="40"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="264.05" y="140" width="14" height="40"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="271.05" y1="260" x2="271.05" y2="340"/>
+    <rect style="fill: #ffffff" x="264.05" y="140" width="14" height="120"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="264.05" y="140" width="14" height="120"/>
   </g>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="247.05" y1="140" x2="47" y2="140"/>
@@ -69,12 +69,6 @@
     <polygon style="fill: #000000" points="454.15,185 470.15,180 454.15,175 "/>
     <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="454.15,185 470.15,180 454.15,175 "/>
     <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="380" y="170">Запрос</text>
-  </g>
-  <g>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="271.05" y1="180" x2="271.05" y2="220"/>
-    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 8; stroke: #000000" x1="271.05" y1="260" x2="271.05" y2="260"/>
-    <rect style="fill: #ffffff" x="264.05" y="220" width="14" height="40"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="264.05" y="220" width="14" height="40"/>
   </g>
   <g>
     <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="295.05" y1="220" x2="478.15" y2="220"/>

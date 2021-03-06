@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="23cm" height="25cm" viewBox="-1 19 459 492" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="358.519" cy="50" rx="10" ry="10"/>
+  <g>
+    <ellipse style="fill: #ffffff" cx="358.519" cy="495" rx="15" ry="15"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="358.519" cy="495" rx="15" ry="15"/>
+    <ellipse style="fill: #000000" cx="358.519" cy="495" rx="10" ry="10"/>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="0,20 175.4,20 187.4,32 187.4,102 0,102 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="0,20 175.4,20 187.4,32 187.4,102 0,102 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="175.4,20 175.4,32 187.4,32 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="7" y="43.65">
+      <tspan x="7" y="43.65">Субъект моделирования:</tspan>
+      <tspan x="7" y="59.65">  пользователь</tspan>
+      <tspan x="7" y="75.65">Точка зрения:</tspan>
+      <tspan x="7" y="91.65">  учитель</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="301.794" y="120" width="113.45" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="301.794" y="120" width="113.45" height="36" rx="10" ry="10"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="358.519" y="142.8">
+      <tspan x="358.519" y="142.8">Не авторизован</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="358.519,61.0054 358.519,71.0054 358.519,108.991 358.519,114.519 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="353.519,106.755 358.519,116.755 363.519,106.755 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="266.369" y="240" width="184.3" height="52" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="266.369" y="240" width="184.3" height="52" rx="10" ry="10"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="358.519" y="262.8">
+      <tspan x="358.519" y="262.8">Заполняющий информацию</tspan>
+    </text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="276.369" y="278.8">do/ Работа с ИС</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="266.369" y1="266" x2="450.669" y2="266"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="358.519,156.999 358.519,198.001 358.519,198.001 358.519,234.526 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="353.519,226.762 358.519,236.762 363.519,226.762 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="419.869" y="200.001">Авторизация</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="358.519,293.007 358.519,303.007 358.519,368.991 358.519,374.519 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="353.519,366.755 358.519,376.755 363.519,366.755 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="389.1" y="337.999">Выход</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="358.519,417.009 358.519,427.009 358.519,468.992 358.519,474.52 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="353.519,466.756 358.519,476.756 363.519,466.756 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="301.794" y="380" width="113.45" height="36" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="301.794" y="380" width="113.45" height="36" rx="10" ry="10"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="358.519" y="402.8">
+      <tspan x="358.519" y="402.8">Не авторизован</tspan>
+    </text>
+  </g>
+</svg>
