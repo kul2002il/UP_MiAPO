@@ -108,6 +108,8 @@ li{
 
 .img > p{
 	font-size: 12pt;
+	margin-top: 0px;
+	text-indent: 0;
 }
 
 main>div:nth-child(n+2) table{
